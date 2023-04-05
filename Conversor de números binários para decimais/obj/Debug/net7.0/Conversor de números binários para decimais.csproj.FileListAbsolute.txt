@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\bin\Debug\net7.0\Conversor de números binários para decimais.exe
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\bin\Debug\net7.0\Conversor de números binários para decimais.deps.json
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\bin\Debug\net7.0\Conversor de números binários para decimais.runtimeconfig.json
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\bin\Debug\net7.0\Conversor de números binários para decimais.dll
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\bin\Debug\net7.0\Conversor de números binários para decimais.pdb
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.dll
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\refint\Conversor de números binários para decimais.dll
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.pdb
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\Conversor de números binários para decimais.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Conversor de números binários para decimais\Conversor de números binários para decimais\obj\Debug\net7.0\ref\Conversor de números binários para decimais.dll
